@@ -1,0 +1,11 @@
+{
+  "name": "projectEuler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fxnoob/project_eular_.git",
+  "author": "fxnoob <fxnoob71@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.6.2"
+  }
+}

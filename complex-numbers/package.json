@@ -1,0 +1,9 @@
+{
+  "name": "complex-numbers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^8.0.1"
+  }
+}
