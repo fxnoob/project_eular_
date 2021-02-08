@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b342d9ff-ad9d-4122-bd39-10f8b2a6be3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p054_poker.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/approximation/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/approximation/1.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,16 +16,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/54.js">
+        <entry file="file://$PROJECT_DIR$/approximation/1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="222" column="26" selection-start-line="222" selection-start-column="26" selection-end-line="222" selection-end-column="26" />
-              <folding>
-                <element signature="e#3222#3443#0" />
-                <element signature="e#3950#4424#0" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/approximation/test2.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -49,6 +50,7 @@
       <list>
         <option value="$PROJECT_DIR$/p054_poker.txt" />
         <option value="$PROJECT_DIR$/54.js" />
+        <option value="$PROJECT_DIR$/approximation/1.js" />
       </list>
     </option>
   </component>
@@ -68,6 +70,11 @@
             <path>
               <item name="projectEuler" type="b2602c69:ProjectViewProjectNode" />
               <item name="projectEuler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEuler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEuler" type="462c0819:PsiDirectoryNode" />
+              <item name="approximation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,18 +114,18 @@
       <option name="presentableId" value="Default" />
       <updated>1612742855977</updated>
       <workItem from="1612742858608" duration="2000" />
-      <workItem from="1612742868162" duration="16920000" />
+      <workItem from="1612742868162" duration="18201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16922000" />
+    <option name="totallyTimeSpent" value="18203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -165,12 +172,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/54.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="222" column="26" selection-start-line="222" selection-start-column="26" selection-end-line="222" selection-end-column="26" />
+        <state relative-caret-position="206">
+          <caret line="113" column="10" lean-forward="true" selection-start-line="113" selection-start-column="10" selection-end-line="113" selection-end-column="10" />
           <folding>
             <element signature="e#3222#3443#0" />
             <element signature="e#3950#4424#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/approximation/test2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/approximation/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="17" />
         </state>
       </provider>
     </entry>
